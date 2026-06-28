@@ -4,6 +4,7 @@ import com.vargatech.checkout.repository.ChecklistRepository;
 
 import java.util.List;
 
+
 public class InspecaoService {
 
     private final ChecklistRepository checklistRepository;
